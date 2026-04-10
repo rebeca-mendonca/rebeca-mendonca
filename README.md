@@ -1,22 +1,14 @@
 <img align="right" height="200" style="border-radius:12px;" src="https://i.pinimg.com/736x/ad/60/2f/ad602f176c79ea86012e7c6fe01b27ed.jpg"/>
 
-## Olá! Eu sou a Rebeca Mendonça
+# Olá! Eu sou a Rebeca Mendonça
 
-- Estudante de Engenharia (1º período)  
+- Estudante de Engenharia da Computação (1º período)  
 - Futura desenvolvedora  
 
 Venho da área da saúde e, em algum momento, pretendo aproximar esses mundos.  
 Gosto de cinema. Talvez por isso, penso em processos, não só em resultados.
 
 ## Um detalhe importante Ainda estou no começo — e tudo bem. Esse espaço vai crescer junto comigo.
----
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rebeca-mendonca&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca-mendonca&layout=compact&theme=tokyonight"/>
-  
-</div>
-
 ---
 Estudando:
 <div style="display: inline_block"><br>
