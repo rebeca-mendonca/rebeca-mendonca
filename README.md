@@ -1,20 +1,26 @@
-Olá! Eu sou a Rebeca Mendonça 👋
+<img align="right" height="200" style="border-radius:12px;" src="https://i.pinimg.com/736x/ad/60/2f/ad602f176c79ea86012e7c6fe01b27ed.jpg"/>
 
-🎓 Estudante de Engenharia (1º período)
+## Olá! Eu sou a Rebeca Mendonça
 
-💻 Futura desenvolvedora
+- Estudante de Engenharia (1º período)  
+- Futura desenvolvedora  
 
-Venho da área da saúde e, em algum momento, pretendo aproximar esses mundos.
+Venho da área da saúde e, em algum momento, pretendo aproximar esses mundos.  
 Gosto de cinema. Talvez por isso, penso em processos, não só em resultados.
 
-## Um detalhe importante
+## Um detalhe importante Ainda estou no começo — e tudo bem. Esse espaço vai crescer junto comigo.
+---
 
-Ainda estou no começo — e tudo bem.  
-Esse espaço vai crescer junto comigo.
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rebeca-mendonca&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca-mendonca&layout=compact&theme=tokyonight"/>
+  
+</div>
 
-<div>
-  <a href="https://github.com/rebeca-mendonca">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rebeca-mendonca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebeca-mendonca&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+---
+Estudando:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
 </div>
