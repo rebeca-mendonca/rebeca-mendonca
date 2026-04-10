@@ -1,6 +1,6 @@
 <img align="right" height="200" style="border-radius:12px;" src="https://i.pinimg.com/736x/ad/60/2f/ad602f176c79ea86012e7c6fe01b27ed.jpg"/>
 
-# Olá! Eu sou a Rebeca Mendonça
+# Olá! Eu sou Rebeca Mendonça!!
 
 - Estudante de Engenharia da Computação (1º período)  
 - Futura desenvolvedora  
